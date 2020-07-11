@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...-->
 - 😄 Pronouns: ... She/Her
 
-![alt text](C:\Users\public.LAPTOP-67BH5E5A\Downloads\Corporate Website Facebook Cover Photo)
+[![Capture.png](https://i.postimg.cc/kgDJJGdp/github1.png)](https://postimg.cc/0zRRZ8jY)
 <!--- ⚡ Fun fact: ... -->
 
