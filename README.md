@@ -1,9 +1,6 @@
-### Hi there 👋
 
 <!--
 **essymizo/essymizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
 
 - 🔭<b> I’m currently working on ...</b></b>  SaaS application for sales/inventory management[private repo] || azure open source || competitive programming
 - 🌱<b> I’m currently learning ...</b>  GraphQL && Dynamic Programming || Elastic search(Kibana)
